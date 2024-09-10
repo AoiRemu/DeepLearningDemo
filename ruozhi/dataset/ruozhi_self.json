@@ -1,0 +1,122 @@
+[
+    {
+        "question": "樟脑丸是我吃过最难吃的硬糖有奇怪的味道怎么还有人买",
+        "answer": "有没有可能它不是用来吃的。",
+        "start_positions": 5,
+        "end_positions": 11
+    },
+    {
+        "question": "出生前爸爸没了叫遗腹子，那妈妈没了叫什么？",
+        "answer": "妈都没了怎么出生",
+        "start_positions": 0,
+        "end_positions": 7
+    },
+    {
+        "question": "为什么不把房子盖成实心的，这样不是更牢固，更安全吗",
+        "answer": "实心的就不是房子而是石头了",
+        "start_positions": 5,
+        "end_positions": 11
+    },
+    {
+        "question": "马上要上游泳课了，昨天洗的泳裤还没干，怎么办",
+        "answer": "泳裤本来就要弄湿的，不用干",
+        "start_positions": 10,
+        "end_positions": 12
+    },
+    {
+        "question": "活人和死人结婚是冥婚，那死人和活人结婚叫什么？",
+        "answer": "还是冥婚",
+        "start_positions": 0,
+        "end_positions": 3
+    },
+    {
+        "question": "每个人都有一对爹妈，全球80亿人，不应该有160亿个父母吗？ 总人口为什还没超240亿？有人没有父母吗？",
+        "answer": "你说对了，有人的父母没了",
+        "start_positions": 5,
+        "end_positions": 11
+    },
+    {
+        "question": "地球上有70亿人，为什么只有86w人关注弱智吧，难道弱智这么少吗",
+        "answer": "不是所有的弱智都有智力去关注弱智吧",
+        "start_positions": 0,
+        "end_positions": 16
+    },
+    {
+        "question": "游泳比赛时把水喝光后跑步犯规吗",
+        "answer": "你以为你是夸父吗",
+        "start_positions": 5,
+        "end_positions": 6
+    },
+    {
+        "question": "过年福字要倒着贴，为什么不生产倒过来的福字呢？",
+        "answer": "那不还是福字",
+        "start_positions": 2,
+        "end_positions": 5
+    },
+    {
+        "question": "一些高中想提高升学率，为什么不直接招大学生？",
+        "answer": "你问过大学生想不想再读一遍高中吗",
+        "start_positions": 0,
+        "end_positions": 15
+    },
+    {
+        "question": "出生证丢了怎么证明自己出生了",
+        "answer": "你可以证明你是出生",
+        "start_positions": 5,
+        "end_positions": 8
+    },
+    {
+        "question": "为什么牛顿出了第三定律之后就不更新了，是不是卷钱跑路了",
+        "answer": "也有可能是进棺材了",
+        "start_positions": 5,
+        "end_positions": 8
+    },
+    {
+        "question": "电视剧经常出现一个人被蛇咬，另一个人用嘴帮他吸出蛇毒的场面 可是吸毒不是违法的吗",
+        "answer": "吸蛇毒没事，你可以试试",
+        "start_positions": 0,
+        "end_positions": 4
+    },
+    {
+        "question": "蓝牙耳机坏了，去医院挂牙科还是耳科？",
+        "answer": "应该去挂脑科",
+        "start_positions": 0,
+        "end_positions": 5
+    },
+    {
+        "question": "只剩一个心脏了还能活吗？",
+        "answer": "你还有脑子吗",
+        "start_positions": 0,
+        "end_positions": 5
+    },
+    {
+        "question": "拉屎要擦屁股会不会是资本主义的骗局?",
+        "answer": "是的，建议你别擦",
+        "start_positions": 0,
+        "end_positions": 7
+    },
+    {
+        "question": "如果我提出一个全吧友都答不出的问题那么我是天才还是弱智？",
+        "answer": "若智",
+        "start_positions": 0,
+        "end_positions": 1
+    },
+    {
+        "question": "为什么我去医院看病，医生每次都给我开几只铁线虫",
+        "answer": "？",
+        "start_positions": 0,
+        "end_positions": 0
+    },
+    {
+        "question": "一个工人只上了14个小时的班，为什么我要给他发一天的工资",
+        "answer": "？",
+        "start_positions": 0,
+        "end_positions": 0
+    },
+    {
+        "question": "美国给日本两颗原子弹，如果在空中接住了是不是成自己了的？",
+        "answer": "恭喜你收获了小男孩和胖子",
+        "start_positions": 6,
+        "end_positions": 11
+    }
+]
