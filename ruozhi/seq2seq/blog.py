@@ -3,6 +3,14 @@ import json
 import datasets
 from transformers import EncoderDecoderModel
 from transformers import Seq2SeqTrainer, Seq2SeqTrainingArguments
+import torch
+
+if torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("GPU is available:", torch.cuda.get_device_name(0))
+else:
+    device = torch.device("cpu")
+    print("GPU is not available, using CPU.")
 
 # 准备数据
 origin_data = datasets.Dataset.from_json('./ruozhi/dataset/spider.json')
@@ -11,7 +19,6 @@ train_test_split = origin_data.train_test_split(test_size=0.1)
 train_data = train_test_split['train']
 val_data = train_test_split['test']
 
-# tokenizer = BertTokenizerFast.from_pretrained("./ruozhi/seq2seq/results/checkpoint-414")
 tokenizer = BertTokenizerFast.from_pretrained("bert-base-chinese")
 
 # def map_to_length(x):
