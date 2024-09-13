@@ -8,7 +8,7 @@ dtype = torch.bfloat16
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
-    device_map="cpu",
+    device_map="cuda",
     torch_dtype=dtype,
 )
 
